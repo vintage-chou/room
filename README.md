@@ -1,7 +1,7 @@
 # room
-## just for test the github!
+## just for testing the github!
 
-*It is my first time that I use the github.*
+*It is my first time using the github.*
 *Be happy~*
 
 
